@@ -15,9 +15,9 @@ A simple yet interactive two-player chess game built using Python. This project 
 
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/Shreya-Nalawade/two-player-chess.git
+git clone https://github.com/Shreya-Nalawade/Chess_Game.git
 cd two-player-chess
 
-## if you run it on VScode then you need to install pygame 
+**if you run it on VScode then you need to install pygame 
 Install dependencies:pip install pygame
 Run the game: using file_name.py you can run it
